@@ -1,0 +1,41 @@
+﻿  Algorithms.cpp
+D:\Visual Studio\Diplom\Diplom\MultMatrix.h(55,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\MultMatrix.h(96,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\MultMatrix.h(97,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\LocalElem.h(32,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Visual Studio\Diplom\Diplom\LocalElem.h(45,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Visual Studio\Diplom\Diplom\LocalElem.h(57,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Visual Studio\Diplom\Diplom\GaussMethod.h(102,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\GaussMethod.h(105,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\GaussMethod.h(106,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\GaussMethod.h(108,39): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\Algorithms.h(50,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\Algorithms.h(51,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\Algorithms.h(81,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\Algorithms.h(83,22): warning C4018: <: несоответствие типов со знаком и без знака
+  GaussMethod.cpp
+D:\Visual Studio\Diplom\Diplom\GaussMethod.h(102,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\GaussMethod.h(105,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\GaussMethod.h(106,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\GaussMethod.h(108,39): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+D:\Visual Studio\Diplom\Diplom\MultMatrix.h(55,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\MultMatrix.h(96,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\MultMatrix.h(97,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\LocalElem.h(32,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Visual Studio\Diplom\Diplom\LocalElem.h(45,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Visual Studio\Diplom\Diplom\LocalElem.h(57,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Visual Studio\Diplom\Diplom\GaussMethod.h(102,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\GaussMethod.h(105,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\GaussMethod.h(106,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\GaussMethod.h(108,39): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\Algorithms.h(50,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\Algorithms.h(51,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\Algorithms.h(81,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\Algorithms.h(83,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  3 of 455 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Diplom.vcxproj -> D:\Visual Studio\Diplom\Release\Diplom.exe

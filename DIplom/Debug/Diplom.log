@@ -1,0 +1,14 @@
+﻿  Algorithms.cpp
+D:\Visual Studio\Diplom\Diplom\LocalElem.h(39,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Visual Studio\Diplom\Diplom\Algorithms.h(62,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\Algorithms.h(63,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\Algorithms.h(103,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\Algorithms.h(104,22): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+D:\Visual Studio\Diplom\Diplom\LocalElem.h(39,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Visual Studio\Diplom\Diplom\Algorithms.h(62,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\Algorithms.h(63,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\Algorithms.h(103,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\Diplom\Diplom\Algorithms.h(104,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Diplom.vcxproj -> D:\Visual Studio\Diplom\Debug\Diplom.exe
